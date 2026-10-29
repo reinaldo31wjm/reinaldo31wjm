@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="92" viewBox="0 0 900 92" role="img" aria-label="O REI">
-<defs>
-<linearGradient id="line" x1="0" x2="1"><stop stop-color="#ff2638" stop-opacity="0"/><stop offset=".28" stop-color="#ff2638"/><stop offset=".5" stop-color="#f0dfe2"/><stop offset=".72" stop-color="#ff2638"/><stop offset="1" stop-color="#ff2638" stop-opacity="0"/></linearGradient>
-<filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<path d="M0 82H900" stroke="url(#line)" stroke-width="2"/>
-<path d="M450 5l7 13 14 2-10 10 2 14-13-7-13 7 2-14-10-10 14-2z" fill="#ff2638" filter="url(#glow)"/>
-<text x="450" y="56" text-anchor="middle" font-family="Georgia,serif" font-size="29" font-weight="bold" letter-spacing="5" fill="#f0e5e7" filter="url(#glow)">O REI</text><text x="450" y="68" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="3" fill="#c7aeb4">IDENTIDADE • PROPÓSITO • EVOLUÇÃO</text>
-</svg>
